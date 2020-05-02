@@ -37,3 +37,6 @@
 [submodule "trytond/modules/bank"]
 	path = trytond/modules/bank
 	url = https://github.com/tryton/bank.git
+[submodule "trytond/modules/banck"]
+	path = trytond/modules/banck
+	url = https://github.com/tryton/bank.git
