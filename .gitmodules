@@ -1,36 +1,3 @@
-[submodule "trytond/trytond/modules/stock"]
-	path = trytond/trytond/modules/stock
-	url = https://github.com/tryton/stock.git
-[submodule "trytond/trytond/modules/product"]
-	path = trytond/trytond/modules/product
-	url = https://github.com/tryton/product.git
-[submodule "trytond/trytond/modules/party"]
-	path = trytond/trytond/modules/party
-	url = https://github.com/tryton/party.git
-[submodule "trytond/trytond/modules/currency"]
-	path = trytond/trytond/modules/currency
-	url = https://github.com/tryton/currency.git
-[submodule "trytond/trytond/modules/country"]
-	path = trytond/trytond/modules/country
-	url = https://github.com/tryton/country.git
-[submodule "trytond/trytond/modules/company"]
-	path = trytond/trytond/modules/company
-	url = https://github.com/tryton/company.git
-[submodule "trytond/trytond/modules/account_stock_landed_cost"]
-	path = trytond/trytond/modules/account_stock_landed_cost
-	url = https://github.com/tryton/account_stock_landed_cost.git
-[submodule "trytond/trytond/modules/account_statement"]
-	path = trytond/trytond/modules/account_statement
-	url = https://github.com/tryton/account_statement.git
-[submodule "trytond/trytond/modules/account_product"]
-	path = trytond/trytond/modules/account_product
-	url = https://github.com/tryton/account_product.git
-[submodule "trytond/trytond/modules/account_invoice"]
-	path = trytond/trytond/modules/account_invoice
-	url = https://github.com/tryton/account_invoice.git
-[submodule "trytond/account"]
-	path = trytond/account
-	url = https://github.com/tryton/account.git
 [submodule "trytond/modules/trytond/modules/bank"]
 	path = trytond/modules/trytond/modules/bank
 	url = https://github.com/tryton/bank.git
