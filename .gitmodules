@@ -7,3 +7,6 @@
 [submodule "trytond/modules/banck"]
 	path = trytond/modules/banck
 	url = https://github.com/tryton/bank.git
+[submodule "trytond/siscat_custom_modules"]
+	path = trytond/siscat_custom_modules
+	url = https://github.com/RoxiLi/siscat_custom_modules.git
